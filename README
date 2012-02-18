@@ -1,0 +1,5 @@
+Zipdir
+
+A Python function for zipping an entire directory using the zipfile module.
+
+The function will zip all the contents of the specified directory, with that directory included in the archive.  Empty subfolders will be included in the zip archive as well.
